@@ -1,0 +1,4 @@
+[submodule "littlewing"]
+	path = littlewing
+	url = https://github.com/flo-l/littlewing.git
+	branch = wasm
