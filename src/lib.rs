@@ -5,5 +5,5 @@ use wasm_bindgen::prelude::*;
 
 #[wasm_bindgen]
 pub fn get_next_move(board_fen: &str, white: bool) -> String {
-    "e7".into()
+    "e2e4".into()
 }
